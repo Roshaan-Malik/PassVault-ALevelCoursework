@@ -1,0 +1,21 @@
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\bin\x64\Debug\PassVault Multi-Menu Version.exe.config
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\bin\x64\Debug\PassVault Multi-Menu Version.exe
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\bin\x64\Debug\PassVault Multi-Menu Version.pdb
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault Multi-Menu Version.csproj.AssemblyReference.cache
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault Multi-Menu Version.csproj.SuggestedBindingRedirects.cache
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault_Multi_Menu_Version.Vault.resources
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault_Multi_Menu_Version.Properties.Resources.resources
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault Multi-Menu Version.csproj.GenerateResource.cache
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault Multi-Menu Version.csproj.CoreCompileInputs.cache
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault Multi-Menu Version.exe
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault Multi-Menu Version.pdb
+C:\Users\rosha\OneDrive\Documents\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\bin\x64\Debug\PassVault Multi-Menu Version.exe.config
+C:\Users\rosha\OneDrive\Documents\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\bin\x64\Debug\PassVault Multi-Menu Version.exe
+C:\Users\rosha\OneDrive\Documents\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\bin\x64\Debug\PassVault Multi-Menu Version.pdb
+C:\Users\rosha\OneDrive\Documents\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault Multi-Menu Version.csproj.AssemblyReference.cache
+C:\Users\rosha\OneDrive\Documents\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault_Multi_Menu_Version.Vault.resources
+C:\Users\rosha\OneDrive\Documents\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault_Multi_Menu_Version.Properties.Resources.resources
+C:\Users\rosha\OneDrive\Documents\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault Multi-Menu Version.csproj.GenerateResource.cache
+C:\Users\rosha\OneDrive\Documents\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault Multi-Menu Version.csproj.CoreCompileInputs.cache
+C:\Users\rosha\OneDrive\Documents\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault Multi-Menu Version.exe
+C:\Users\rosha\OneDrive\Documents\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\x64\Debug\PassVault Multi-Menu Version.pdb

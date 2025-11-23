@@ -1,0 +1,11 @@
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\bin\Debug\PassVault Multi-Menu Version.exe.config
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\bin\Debug\PassVault Multi-Menu Version.exe
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\bin\Debug\PassVault Multi-Menu Version.pdb
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\Debug\PassVault_Multi_Menu_Version.Properties.Resources.resources
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\Debug\PassVault Multi-Menu Version.csproj.GenerateResource.cache
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\Debug\PassVault Multi-Menu Version.csproj.CoreCompileInputs.cache
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\Debug\PassVault Multi-Menu Version.exe
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\Debug\PassVault Multi-Menu Version.pdb
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\Debug\PassVault Multi-Menu Version.csproj.AssemblyReference.cache
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\Debug\PassVault Multi-Menu Version.csproj.SuggestedBindingRedirects.cache
+D:\PassVault\PassVault Multi-Menu Version\PassVault Multi-Menu Version\obj\Debug\PassVault_Multi_Menu_Version.Vault.resources
